@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Patch DisPatch Web Scraping Tool is a Node.js-based program developed by [Zaions](https://www.zaions.com), a software house, and its developer, Ahsan Mahmood. This tool is designed to automate web scraping tasks for the "Patch DisPatch" project.
+The Patch DisPatch Web Scraping Tool is a Node.js-based program developed by [Zaions](https://www.zaions.com/bio), a software house, and its developer, [Ahsan Mahmood](https://zaions.com/ahsan). This tool is designed to automate web scraping tasks for the "Patch DisPatch" project.
 
 ## Features
 

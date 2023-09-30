@@ -1,0 +1,38 @@
+{
+  "name": "patch-dispatch-data-scraper",
+  "version": "1.0.0",
+  "description": "The Patch DisPatch Web Scraping Tool is a Node.js-based program developed by [Zaions](https://www.zaions.com/bio), a software house, and its developer, [Ahsan Mahmood](https://zaions.com/ahsan). This tool is designed to automate web scraping tasks for the \"Patch DisPatch\" project.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoneahsan/patch-dispatch-company-projects-zaions-client.git"
+  },
+  "keywords": [
+    "Patch",
+    "Dispatch",
+    "Zaions",
+    "Ahsan",
+    "Mahmood",
+    "Aoneahsan",
+    "NodeJs",
+    "Scraper",
+    "Data",
+    "Scraping",
+    "Bot"
+  ],
+  "author": "Ahsan Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aoneahsan/patch-dispatch-company-projects-zaions-client/issues"
+  },
+  "homepage": "https://github.com/aoneahsan/patch-dispatch-company-projects-zaions-client#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "csv": "^6.3.3",
+    "puppeteer": "^21.1.1"
+  }
+}

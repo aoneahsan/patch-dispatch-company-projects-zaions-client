@@ -1,0 +1,1 @@
+export const saferWebsiteUrl = "https://safer.fmcsa.dot.gov/CompanySnapshot.aspx"
