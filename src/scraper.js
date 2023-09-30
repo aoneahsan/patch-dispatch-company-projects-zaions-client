@@ -9,7 +9,8 @@ async function main() {
 	// if (extractedNumbers.length > 0) {
 		// Launch a headless Chromium browser
 		const browser = await puppeteer.launch({
-			headless: 'new',
+			headless: false,
+			// headless: 'new',
 		})
 		// const browser = await puppeteer.launch({
 		//   headless: 'new'

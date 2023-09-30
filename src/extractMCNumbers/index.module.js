@@ -1,5 +1,5 @@
 import fs from 'fs'
-import cheerio from 'cheerio'
+import { load } from 'cheerio'
 import path from 'path'
 
 export const getMCNumbers = () => {
@@ -13,7 +13,7 @@ export const getMCNumbers = () => {
 	const html = fs.readFileSync(htmlFilePath, 'utf-8')
 
 	// Load the HTML into cheerio
-	const $ = cheerio.load(html)
+	const $ = load(html)
 
 	// Initialize an array to store the extracted numbers
 	const extractedNumbers = []
